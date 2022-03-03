@@ -4,7 +4,7 @@
 <a href="https://instagram.com/ariscikmis"><img src="https://img.shields.io/badge/@ariscikmis-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 My Server
-https://discord.gg/loera
+https://discord.gg/lemniscate
 
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
