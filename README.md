@@ -3,9 +3,6 @@
 [![GitHub JaylenOzi](https://img.shields.io/github/followers/ariscik?label=follow&style=social)](https://github.com/ariscik)&nbsp;
 <a href="https://instagram.com/ariscikmis"><img src="https://img.shields.io/badge/@ariscikmis-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-My Server
-https://discord.gg/1953
-
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
