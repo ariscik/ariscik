@@ -1,7 +1,7 @@
 # Hi there , I'm Aris Lesnar 
 ![profile count](https://komarev.com/ghpvc/?username=ariscik&color=red)&nbsp;
-[![GitHub JaylenOzi](https://img.shields.io/github/followers/ariscik?label=follow&style=social)](https://github.com/ariscik)&nbsp;
-<a href="https://instagram.com/ariscikmis"><img src="https://img.shields.io/badge/@ariscikmis-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+[![GitHub ariscik](https://img.shields.io/github/followers/ariscik?label=follow&style=social)](https://github.com/ariscik)&nbsp;
+<a href="https://instagram.com/arislesnar"><img src="https://img.shields.io/badge/@arislesnar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
